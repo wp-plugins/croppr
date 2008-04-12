@@ -1,0 +1,53 @@
+#cropprWindow {
+	padding: 8px;
+	margin: 0px;
+}
+
+#cropprWindow h2 {
+	margin: 0px;
+	padding: 0px;
+}
+
+#cropprWindow p {
+	margin: 5px 0px;
+	padding: 0px;
+}
+
+#cropprWindow #cropprImagesP {
+	margin-top: 15px;
+}
+
+#cropprWindow #cropprImageField {
+	width: 100%;
+	height: 200px;
+	margin-bottom: 10px;
+}
+
+#cropprWindow #cropprSizeField {
+	width: 87px;
+}
+
+#cropprWindow #cropprAttrTable {
+	border-collapse: collapse;
+}
+
+#cropprWindow #cropprAttrTable td {
+	padding-right: 17px;
+}
+
+#cropprWindow #cropprAttrTable td.cropprMargeTd {
+	padding-left: 17px;
+	border-left: 1px solid #999999;
+}
+
+#cropprWindow .cropprTextcenter {
+	text-align: center;
+}
+
+#cropprWindow #cropprSubmit {
+	margin-top: 20px;
+}
+
+#cropprWindow .cropprErrorColor {
+	background-color: #ffd75f;
+}
